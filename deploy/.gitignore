@@ -1,0 +1,5 @@
+# Secretos y datos locales: nunca al repo
+.env
+.env.taskview
+backups/
+local/
